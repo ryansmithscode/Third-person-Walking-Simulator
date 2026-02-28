@@ -1,4 +1,4 @@
-# Objective and Dialogue System (2022)
+# Third-person Walking Simulator (2022)
 
 Within this project I was the only programmer, amongst 6 other developers. There were three 3D Modelers, an artist and project manager. My role was to create the project’s third person controller, objective and dialogue system as the gameplay was a narrative walking simulator.
 
